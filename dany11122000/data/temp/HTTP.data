@@ -1,0 +1,10 @@
+127.0.0.1 Tue Oct 31 13:57:36 PST 2000 GET / HTTP/1.0
+127.0.0.1 Tue Oct 31 13:57:40 PST 2000 GET /CHAT?text=hello&virtual=127.0.0.1 HTTP/1.0
+127.0.0.1 Tue Oct 31 13:57:43 PST 2000 GET /CHAT?text=how+are+you%3F&virtual=127.0.0.1 HTTP/1.0
+127.0.0.1 Tue Oct 31 13:57:52 PST 2000 GET /CHAT?text=what+is+my+name%3F&virtual=127.0.0.1 HTTP/1.0
+127.0.0.1 Tue Oct 31 13:58:03 PST 2000 GET /CHAT?text=my+name+is+Bubba&virtual=127.0.0.1 HTTP/1.0
+127.0.0.1 Tue Oct 31 13:58:07 PST 2000 GET /CHAT?text=what+is+my+name%3F&virtual=127.0.0.1 HTTP/1.0
+127.0.0.1 Tue Oct 31 13:58:10 PST 2000 GET /CHAT?text=what+is+my+name%3F&virtual=127.0.0.2 HTTP/1.0
+127.0.0.1 Tue Oct 31 13:58:16 PST 2000 GET /CHAT?text=my+name+is+dopey&virtual=127.0.0.2 HTTP/1.0
+127.0.0.1 Tue Oct 31 13:58:19 PST 2000 GET /CHAT?text=what+is+my+name%3F&virtual=127.0.0.2 HTTP/1.0
+127.0.0.1 Tue Oct 31 13:58:22 PST 2000 GET /CHAT?text=what+is+my+name%3F&virtual=127.0.0.1 HTTP/1.0

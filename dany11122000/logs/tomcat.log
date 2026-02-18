@@ -1,0 +1,100 @@
+Context log: path="/index.jsp" Adding context path="/index.jsp"  docBase="C:\WINDOWS\Desktop\dany\webapps\index.jsp"
+Context log: path="/friends" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\friends"
+Context log: path="/friends" Adding context path="/friends"  docBase="C:\WINDOWS\Desktop\dany\webapps\friends"
+Context log: path="/history" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\history"
+Context log: path="/history" Adding context path="/history"  docBase="C:\WINDOWS\Desktop\dany\webapps\history"
+Context log: path="/images" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\images"
+Context log: path="/images" Adding context path="/images"  docBase="C:\WINDOWS\Desktop\dany\webapps\images"
+Context log: path="/learn" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\learn"
+Context log: path="/learn" Adding context path="/learn"  docBase="C:\WINDOWS\Desktop\dany\webapps\learn"
+Context log: path="/logs" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\logs"
+Context log: path="/logs" Adding context path="/logs"  docBase="C:\WINDOWS\Desktop\dany\webapps\logs"
+Context log: path="/music" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\music"
+Context log: path="/music" Adding context path="/music"  docBase="C:\WINDOWS\Desktop\dany\webapps\music"
+Context log: path="/nav" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\nav"
+Context log: path="/nav" Adding context path="/nav"  docBase="C:\WINDOWS\Desktop\dany\webapps\nav"
+Context log: path="/scripts" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\scripts"
+Context log: path="/scripts" Adding context path="/scripts"  docBase="C:\WINDOWS\Desktop\dany\webapps\scripts"
+Context log: path="/stylesheets" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\stylesheets"
+Context log: path="/stylesheets" Adding context path="/stylesheets"  docBase="C:\WINDOWS\Desktop\dany\webapps\stylesheets"
+Context log: path="/video" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\video"
+Context log: path="/video" Adding context path="/video"  docBase="C:\WINDOWS\Desktop\dany\webapps\video"
+Context log: path="/WEB-INF" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\WEB-INF"
+Context log: path="/WEB-INF" Adding context path="/WEB-INF"  docBase="C:\WINDOWS\Desktop\dany\webapps\WEB-INF"
+Context log: path="/work" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\work"
+Context log: path="/work" Adding context path="/work"  docBase="C:\WINDOWS\Desktop\dany\webapps\work"
+Context log: path="/brain" Automatic context load docBase="C:\WINDOWS\Desktop\dany\webapps\brain"
+Context log: path="/brain" Adding context path="/brain"  docBase="C:\WINDOWS\Desktop\dany\webapps\brain"
+Context log: path="/logs" File not found C:\WINDOWS\Desktop\dany\webapps\logs\WEB-INF\web.xml, using only defaults
+Context log: path="/images" File not found C:\WINDOWS\Desktop\dany\webapps\images\WEB-INF\web.xml, using only defaults
+Context log: path="/scripts" File not found C:\WINDOWS\Desktop\dany\webapps\scripts\WEB-INF\web.xml, using only defaults
+Context log: path="/history" File not found C:\WINDOWS\Desktop\dany\webapps\history\WEB-INF\web.xml, using only defaults
+Context log: path="/WEB-INF" File not found C:\WINDOWS\Desktop\dany\webapps\WEB-INF\WEB-INF\web.xml, using only defaults
+Context log: path="/learn" File not found C:\WINDOWS\Desktop\dany\webapps\learn\WEB-INF\web.xml, using only defaults
+Context log: path="/video" File not found C:\WINDOWS\Desktop\dany\webapps\video\WEB-INF\web.xml, using only defaults
+Context log: path="/friends" File not found C:\WINDOWS\Desktop\dany\webapps\friends\WEB-INF\web.xml, using only defaults
+Context log: path="/music" File not found C:\WINDOWS\Desktop\dany\webapps\music\WEB-INF\web.xml, using only defaults
+Context log: path="/stylesheets" File not found C:\WINDOWS\Desktop\dany\webapps\stylesheets\WEB-INF\web.xml, using only defaults
+Context log: path="/work" File not found C:\WINDOWS\Desktop\dany\webapps\work\WEB-INF\web.xml, using only defaults
+Context log: path="/nav" File not found C:\WINDOWS\Desktop\dany\webapps\nav\WEB-INF\web.xml, using only defaults
+Context log: path="/brain" File not found C:\WINDOWS\Desktop\dany\webapps\brain\WEB-INF\web.xml, using only defaults
+Context log: path="" Removing duplicate servlet default Wrapper(default org.apache.tomcat.servlets.DefaultServlet)
+Context log: path="" Removing duplicate servlet invoker Wrapper(invoker org.apache.tomcat.servlets.InvokerServlet)
+Context log: path="" Removing duplicate servlet jsp Wrapper(jsp org.apache.jasper.runtime.JspServlet)
+Context log: path="" Removing duplicate /servlet/* -> Wrapper(invoker org.apache.tomcat.servlets.InvokerServlet)
+Context log: path="" Removing duplicate *.jsp -> Wrapper(jsp org.apache.jasper.runtime.JspServlet)
+Context log: path="/index.jsp" File not found C:\WINDOWS\Desktop\dany\webapps\index.jsp\WEB-INF\web.xml, using only defaults
+Starting endpoint port="2001" handler="org.apache.tomcat.service.http.HttpConnectionHandler" 
+Context log: path="" Error in jsp service() : Unable to compile class for JSPC:\WINDOWS\Desktop\dany\work\localhost_8080\_0002findex_0002ejspindex_jsp_32.java:76: Variable output may not have been initialized.
+                				out.println(output + "<br><br>");
+                				            ^
+1 error
+
+ org.apache.jasper.JasperException: Unable to compile class for JSPC:\WINDOWS\Desktop\dany\work\localhost_8080\_0002findex_0002ejspindex_jsp_32.java:76: Variable output may not have been initialized.
+                				out.println(output + "<br><br>");
+                				            ^
+1 error
+
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:247)
+	at org.apache.jasper.runtime.JspServlet.loadJSP(JspServlet.java:413)
+	at org.apache.jasper.runtime.JspServlet$JspServletWrapper.loadIfNecessary(JspServlet.java:149)
+	at org.apache.jasper.runtime.JspServlet$JspServletWrapper.service(JspServlet.java:161)
+	at org.apache.jasper.runtime.JspServlet.serviceJspFile(JspServlet.java:261)
+	at org.apache.jasper.runtime.JspServlet.service(JspServlet.java:369)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at org.apache.tomcat.core.ServletWrapper.handleRequest(ServletWrapper.java:503)
+	at org.apache.tomcat.core.RequestDispatcherImpl.forward(RequestDispatcherImpl.java:163)
+	at org.apache.tomcat.servlets.DefaultServlet.doGet(DefaultServlet.java:187)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at org.apache.tomcat.core.ServletWrapper.handleRequest(ServletWrapper.java:503)
+	at org.apache.tomcat.core.ContextManager.service(ContextManager.java:559)
+	at org.apache.tomcat.service.http.HttpConnectionHandler.processConnection(HttpConnectionHandler.java:160)
+	at org.apache.tomcat.service.TcpConnectionThread.run(SimpleTcpEndpoint.java:338)
+	at java.lang.Thread.run(Unknown Source)
+Context log: path="" <b>Internal Servlet Error:</b><br>
+<pre>
+org.apache.jasper.JasperException: Unable to compile class for JSPC:\WINDOWS\Desktop\dany\work\localhost_8080\_0002findex_0002ejspindex_jsp_32.java:76: Variable output may not have been initialized.
+                				out.println(output + "<br><br>");
+                				            ^
+1 error
+
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:247)
+	at org.apache.jasper.runtime.JspServlet.loadJSP(JspServlet.java:413)
+	at org.apache.jasper.runtime.JspServlet$JspServletWrapper.loadIfNecessary(JspServlet.java:149)
+	at org.apache.jasper.runtime.JspServlet$JspServletWrapper.service(JspServlet.java:161)
+	at org.apache.jasper.runtime.JspServlet.serviceJspFile(JspServlet.java:261)
+	at org.apache.jasper.runtime.JspServlet.service(JspServlet.java:369)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at org.apache.tomcat.core.ServletWrapper.handleRequest(ServletWrapper.java:503)
+	at org.apache.tomcat.core.RequestDispatcherImpl.forward(RequestDispatcherImpl.java:163)
+	at org.apache.tomcat.servlets.DefaultServlet.doGet(DefaultServlet.java:187)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:740)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:853)
+	at org.apache.tomcat.core.ServletWrapper.handleRequest(ServletWrapper.java:503)
+	at org.apache.tomcat.core.ContextManager.service(ContextManager.java:559)
+	at org.apache.tomcat.service.http.HttpConnectionHandler.processConnection(HttpConnectionHandler.java:160)
+	at org.apache.tomcat.service.TcpConnectionThread.run(SimpleTcpEndpoint.java:338)
+	at java.lang.Thread.run(Unknown Source)
+</pre>
+

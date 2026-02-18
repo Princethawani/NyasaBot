@@ -1,0 +1,4 @@
+localhost Sat Nov 04 23:33:18 PST 2000 GET / HTTP/1.0
+localhost Sat Nov 04 23:33:24 PST 2000 GET /CHAT?text=hello+there&submit=Reply&virtual=localhost HTTP/1.0
+localhost Sat Nov 04 23:33:37 PST 2000 GET /CHAT?text=hi&virtual=localhost HTTP/1.0
+localhost Sat Nov 04 23:33:45 PST 2000 GET /CHAT?text=my+name+is+jon&virtual=localhost HTTP/1.0

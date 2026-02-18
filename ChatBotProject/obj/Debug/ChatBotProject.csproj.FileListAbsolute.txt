@@ -1,0 +1,69 @@
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csprojAssemblyReference.cache
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.cache
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CoreCompileInputs.cache
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CopyComplete
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csprojAssemblyReference.cache
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.cache
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CoreCompileInputs.cache
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CopyComplete
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
+C:\Users\PRINCE THAWANI\Desktop\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+C:\Users\PRINCE THAWANI\Desktop\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+C:\Users\PRINCE THAWANI\Desktop\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
+F:\XUL\prince work\My Projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+F:\XUL\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+F:\XUL\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
+F:\XUL\prince work\My Projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+F:\XUL\prince work\My Projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+F:\XUL\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csprojResolveAssemblyReference.cache
+F:\XUL\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+F:\XUL\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+F:\XUL\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+F:\XUL\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.Cache
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csprojResolveAssemblyReference.cache
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.Cache
+F:\School\prince work\My Projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.About.resources
+C:\Users\PRINCE THAWANI\Documents\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+C:\Users\PRINCE THAWANI\Documents\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+C:\Users\PRINCE THAWANI\Documents\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
+C:\Users\PRINCE THAWANI\Documents\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csprojResolveAssemblyReference.cache
+C:\Users\PRINCE THAWANI\Documents\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+C:\Users\PRINCE THAWANI\Documents\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+C:\Users\PRINCE THAWANI\Documents\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+C:\Users\PRINCE THAWANI\Documents\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.Cache
+C:\Users\PRINCE THAWANI\Documents\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+C:\Users\PRINCE THAWANI\Documents\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csprojResolveAssemblyReference.cache
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.Cache
+C:\Users\PRINCE THAWANI\Downloads\Systems\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.UserControl1.resources

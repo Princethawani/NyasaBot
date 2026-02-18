@@ -1,0 +1,153 @@
+<JASPER_LOG> Sun Nov 12 15:56:42 PST 2000 Scratch dir for the JSP engine is: C:\WINDOWS\Desktop\dany\work\localhost_8080%2Flogs</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:56:42 PST 2000 IMPORTANT: Do not modify the generated servlets</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:14 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:14 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:14 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:14 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:14 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:14 PST 2000 	     QueryString: null</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:14 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:14 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 	     QueryString: virtual=127.0.0.1&text=hi&submit=Reply</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 		 submit = Reply</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 		 text = hi</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:20 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:24 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:24 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:24 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:24 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:24 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:24 PST 2000 	     QueryString: virtual=127.0.0.1&text=hello%3F</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:24 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:24 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:24 PST 2000 		 text = hello?</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:24 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:28 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:28 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:28 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:28 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:28 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:28 PST 2000 	     QueryString: virtual=127.0.0.1&text=where</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:28 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:28 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:28 PST 2000 		 text = where</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:57:28 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:02 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:02 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:02 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:02 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:02 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:02 PST 2000 	     QueryString: virtual=127.0.0.1&text=hi</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:02 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:02 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:02 PST 2000 		 text = hi</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:02 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	     QueryString: virtual=127.0.0.1&text=</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 		 text = </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	     QueryString: virtual=127.0.0.1&text=</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 		 text = </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	     QueryString: virtual=127.0.0.1&text=</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 		 text = </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:03 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	     QueryString: virtual=127.0.0.1&text=</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 		 text = </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	     QueryString: virtual=127.0.0.1&text=</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 		 text = </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:58:04 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:19 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:19 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:19 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:19 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:19 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:19 PST 2000 	     QueryString: null</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:19 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:19 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 	     QueryString: virtual=127.0.0.1&text=hi&submit=Reply</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 		 submit = Reply</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 		 text = hi</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:24 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 	     QueryString: virtual=127.0.0.1&text=hi&submit=Reply</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 		 submit = Reply</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 		 text = hi</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 15:59:53 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 	     QueryString: virtual=127.0.0.1&text=hi&submit=Reply</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 		 submit = Reply</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 		 text = hi</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:00:06 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 JspEngine --> /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 	     ServletPath: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 	        PathInfo: /</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 	        RealPath: C:\WINDOWS\Desktop\dany\webapps\index.jsp\</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 	      RequestURI: /index.jsp</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 	     QueryString: virtual=127.0.0.1&text=hi&submit=Reply</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 	  Request Params: </JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 		 submit = Reply</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 		 virtual = 127.0.0.1</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 		 text = hi</JASPER_LOG> 
+<JASPER_LOG> Sun Nov 12 16:01:24 PST 2000 Classpath according to the Servlet Engine is: C:\WINDOWS\Desktop\dany\webapps\WEB-INF\classes</JASPER_LOG> 

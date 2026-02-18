@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.2//EN"
+    "http://java.sun.com/j2ee/dtds/web-app_2.2.dtd">
+
+<web-app>
+	
+	<servlet>
+        <servlet-name>
+            default
+        </servlet-name>
+        <servlet-class>
+            org.apache.tomcat.servlets.DefaultServlet
+        </servlet-class>
+	<load-on-startup>
+            -2147483646
+	</load-on-startup>
+    </servlet>
+    <servlet>
+        <servlet-name>
+            invoker
+        </servlet-name>
+<!--
+            org.apache.tomcat.servlets.NoInvokerServlet
+-->
+        <servlet-class>
+            org.apache.tomcat.servlets.InvokerServlet
+        </servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>
+            jsp
+        </servlet-name>
+        <servlet-class>
+            org.apache.jasper.runtime.JspServlet
+        </servlet-class>
+
+<!-- uncomment the following to use Jikes for JSP compilation
+
+        <init-param>
+            <param-name>jspCompilerPlugin</param-name>
+            <param-value>org.apache.jasper.compiler.JikesJavaCompiler</param-value>
+        </init-param>
+
+-->
+
+	<load-on-startup>
+            -2147483646
+	</load-on-startup>
+    </servlet>
+	
+    <servlet>
+        <servlet-name>
+            chat
+        </servlet-name>
+        <servlet-class>
+            CHAT
+        </servlet-class>
+
+    </servlet>
+   
+    <servlet-mapping>
+        <servlet-name>
+            chat
+        </servlet-name>
+        <url-pattern>
+            /chat
+        </url-pattern>
+    </servlet-mapping>
+	
+	<servlet-mapping>
+        <servlet-name>
+            invoker
+        </servlet-name>
+        <url-pattern>
+            /servlet/*
+        </url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>
+            jsp
+        </servlet-name>
+        <url-pattern>
+            *.jsp
+        </url-pattern>
+    </servlet-mapping>
+
+</web-app>

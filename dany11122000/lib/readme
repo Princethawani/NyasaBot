@@ -1,0 +1,11 @@
+To speech enable DANY:
+
+Place speech.properties in your java/lib directory.
+
+You must have Microsoft SAPI 4.0/5.0 installed to achive text-to-speech.
+
+See the distrib/ folder for more information.
+
+Special thanks to Jesse Peterson.
+
+- Jon Baer
